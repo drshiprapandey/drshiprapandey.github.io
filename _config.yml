@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Shipra Pandey"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Shipra Pandey"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Shipra Pandey"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Institute-PDF at IIT Bombay studying synthesis of Bio-nano Composite"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -83,10 +83,10 @@ author:
   name             : "Dr. Shipra Pandey"
   avatar           : "profile.png"
   bio              : "Institute-PDF at IIT Bombay studying synthesis of Bio-nano Composite"
-  location         : "Location"
+  location         : "Indian Institute of Technology Powai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://scholar.google.co.in/citations?user=b0kWkacAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
